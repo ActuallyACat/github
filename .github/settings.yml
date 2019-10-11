@@ -6,3 +6,5 @@ repository:
 labels:
   - name: wip
     color: fff
+  - name: broken
+    color: 000
