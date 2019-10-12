@@ -1,10 +1,10 @@
-<header align="center">
+<div align="center">
   <h1>
     <span style="font-size:6rem">🗿</span>
     <p>Moai Merge</p>
   </h1>
   <p>An opinionated workflow for squash-based conventional PRs.</p>
-</header>
+</div>
 
 ---
 
